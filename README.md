@@ -25,3 +25,4 @@ Things you may want to cover:
 # Rails7Blog.application
 # Rails7Blog.application
 # blog_demo
+# blog_demo2
