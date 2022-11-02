@@ -19,3 +19,4 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_26_152056) do
   end
 
 end
+#create
